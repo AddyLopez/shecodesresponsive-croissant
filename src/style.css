@@ -40,6 +40,12 @@ img {
   background-color: #ffffff;
   padding: 16px;
 }
+.active {
+  color: #ffc842;
+}
+.active:hover {
+  color: #ffc842;
+}
 .photo {
   margin: 20px;
 }
