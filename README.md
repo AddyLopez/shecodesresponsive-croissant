@@ -38,7 +38,7 @@ Student assignment for SheCodes Responsive coding workshop. (Note: "Croissant.or
 
 #### Accessibility, Design, & Workflow Considerations
 
-- Accessibility rating by Lighthouse report: 100/100 for desktops and 100/100 for mobile devices.
+- Accessibility rating by Lighthouse report: 100/100 for desktops and 100/100 for mobile devices
 
 - Skilled use of Google Chrome's DevTools for debugging and prototyping changes in the browser. The toggle device tools were especially useful for testing the responsiveness of my code on devices of different sizes.
 
