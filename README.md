@@ -4,7 +4,7 @@
 
 ## Description
 
-Student assignment for SheCodes Responsive coding workshop.
+Student assignment for SheCodes Responsive coding workshop. (Note: "Croissant.org" is a fictional name.)
 
 **_Learning objective_**: To deploy to Netlify a basic, multi-page website about croissants. Beyond coding the HTML, applying responsive styling with CSS, and linking multiple HTML files, this assignment called for practice in integrating the local development environment with the hosting platform Netlify, in reading the deployment logs, and in applying procedures for the prevention or debugging of common errors that may surface during deployment.
 
