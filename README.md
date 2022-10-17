@@ -44,9 +44,9 @@ Student assignment for SheCodes Responsive coding workshop.
 
 - Coded in VS Code using professional development workflow tools such as Live Server and GitHub Desktop, with hosting on Netlify, implementing a process of continuous deployment
 
-- Includes this polished README, written with Markdown
+- The background motif with the picnic pattern and croissant emojis is a detail that I put together myself to have more fun with the assignment and to add more character to the fictional "Croissant.org" than was evident in the demo website (see below). I designed the banner sections to evoke baking because it was a playful way to draw on the yummy, sensuous qualities of a croissant that appeal to me and apply them as thematic material for the design.
 
----
+- Includes this polished README, written with Markdown
 
 ## Multi-Page Website Demo:
 
